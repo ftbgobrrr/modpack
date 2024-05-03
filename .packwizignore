@@ -1,19 +1,23 @@
 # .packwizignore follows the same format as .gitignore, and can be used to exclude unwanted files from pack exports
+
 # See https://git-scm.com/docs/gitignore
 
 # Exclude README
+
 /README.md
-*.zip
-!world/datapacks/*.zip
-*.mrpack
-.git/*
+_.zip
+!world/datapacks/_.zip
+!world/shaderpacks/_.zip
+_.mrpack
+.git/\*
 .git/
 .gitignore
 .gitattributes
 build/
 
 # Nix scripts
+
 /flake.lock
-*.nix
+\*.nix
 /.envrc
 /.direnv/

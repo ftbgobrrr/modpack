@@ -1037,6 +1037,10 @@ file = "defaultconfigs/sophisticatedstorage-server.toml"
 hash = "f49e08dcb8bdda8104a22a85d8c3647367da5fef4749f71a327b2448c643d3dc"
 
 [[files]]
+file = "flake.nix"
+hash = "8d23e1a96929ae923243bb802724c7f37fa94d2003c85547dff3605b3ec98416"
+
+[[files]]
 file = "kubejs/CustomPackSettings.json"
 hash = "1d286f37f56f1763ae88fb1f7168af3af18585eece25f303045a0dc07a72e84b"
 
@@ -4413,3 +4417,23 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "9ba4edf5fcf5fcb861bdd9de94e01dfa0c9640f2ae1a82db284a0c47ddded987"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Quark Programmer Art.zip"
+hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+hash = "669d29e01d52bf9d8bb9f63c4c4131e5e5a9e0ebcff397f135803acbf0b88d94"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-8.8f.zip"
+hash = "ab8668aac59278d411e72b8a250a9f952e7e7d31003d50265f8e46ff7b784d8b"
+
+[[files]]
+file = "shell.nix"
+hash = "8c5412aefe839d7eabc865071fc9b65d12ede7902f91e152db3a736af06a04db"
