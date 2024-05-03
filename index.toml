@@ -3391,8 +3391,9 @@ hash = "e2b0995817583f85d3bef1c502596f2aba45bc886f7f915f0638a7c58dd8387d"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
-hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
+file = "mods/entityculling.pw.toml"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
 
 [[files]]
 file = "mods/epherolib.pw.toml"
