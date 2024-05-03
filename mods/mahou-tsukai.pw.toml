@@ -1,0 +1,13 @@
+name = "Mahou Tsukai"
+filename = "mahoutsukai-1.20.1-v1.34.62.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee5c76dcd8d891dc371a412ce6cd1559cf14d6c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5190727
+project-id = 342543

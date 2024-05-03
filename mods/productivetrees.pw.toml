@@ -1,0 +1,13 @@
+name = "Productive Trees"
+filename = "productivetrees-1.20.1-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d1b2d25de96113cbc1f700fb21f98d05c8ca24c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5272372
+project-id = 867074

@@ -1,0 +1,13 @@
+name = "Glassential Renewed"
+filename = "glassential-renewed-forge-1.20.1-2.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b43b96e41ae398fffa2a495fb5b09828104d1fa4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5145954
+project-id = 945149

@@ -1,0 +1,13 @@
+name = "Potion Blender [Fabric/Forge]"
+filename = "Potion-Blender-1.20.1-FORGE-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "168c299a4f76b58a5b55566e1725705993e274d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4791431
+project-id = 697859

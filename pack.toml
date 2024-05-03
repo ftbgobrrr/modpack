@@ -1,0 +1,13 @@
+name = "FTB GO BRRR"
+author = "ImUrX"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a0586055ebb6530906c228b20437dd8505c31b1102659ebb7599d725eb4e9c22"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
