@@ -3334,14 +3334,13 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "f77b147c1ba0dae6df313f77cff2926412f4a84c4dbcd6f049dd3d0643fb7a03"
-metafile = true
-
-[[files]]
 file = "mods/morejs.pw.toml"
 hash = "4bc8b1e53cae03cd6eabce1e41d8131bbd400a406d0968e318758dca3043fd58"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.22.3-mc1.20.2.jar"
+hash = "d128037878f363861451e3b31da5ad120488ec28f6eb8330fd6e4b809318efcc"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
