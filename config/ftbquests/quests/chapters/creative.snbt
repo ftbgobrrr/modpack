@@ -405,59 +405,15 @@
 			hide_dependency_lines: true
 			id: "0019BAE826902B4A"
 			optional: true
-			size: 3.0d
+			size: 2.5d
 			tasks: [{
 				id: "05EDE3C0706A89A7"
 				item: "allthecompressed:atm_star_block_9x"
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter3.blocks}"
-			x: -2.5d
-			y: 2.5d
-		}
-		{
-			dependencies: ["464D0C17601E8A2B"]
-			id: "39BD43AAEFBD5609"
-			optional: true
-			rewards: [
-				{
-					id: "0F1BEDEC9A4A479D"
-					type: "xp_levels"
-					xp_levels: 50000
-				}
-				{
-					id: "04566CE860FF3B61"
-					item: {
-						Count: 1b
-						id: "gtceu:polybenzimidazole_plunger"
-						tag: {
-							DisallowContainerItem: 0b
-							GT.Behaviours: { }
-							GT.Tool: {
-								AttackDamage: 0.0f
-								AttackSpeed: -2.4f
-								Damage: 0
-								MaxDamage: 127
-							}
-							HideFlags: 2
-							display: {
-								Name: "{\"text\":\"Not a Neutronium Plunger\"}"
-							}
-						}
-					}
-					type: "item"
-				}
-			]
-			size: 3.0d
-			subtitle: "{atm9.quest.chapter3.subt.greg}"
-			tasks: [{
-				id: "45119551D2C9EE55"
-				item: "allthetweaks:greg_star"
-				type: "item"
-			}]
-			title: "{atm9.quest.chapter3.greg}"
-			x: 2.5d
-			y: 2.5d
+			x: 0.0d
+			y: 4.5d
 		}
 	]
 	title: "{atm9.chapters.7.title}"

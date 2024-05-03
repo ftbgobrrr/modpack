@@ -1479,11 +1479,6 @@
 					item: "minecraft:dragon_egg"
 					type: "item"
 				}
-				{
-					id: "4B34B0C3998AFE57"
-					item: "ends_delight:dragon_tooth"
-					type: "item"
-				}
 			]
 			title: "{atm9.quest.chapter2.Edragon}"
 			x: -1.5d
@@ -2155,13 +2150,7 @@
 			dependencies: ["11B8C5F88DCB3BF5"]
 			description: ["{atm9.quest.chapter2.desc.ancient_pyramid}"]
 			hide_dependency_lines: false
-			icon: {
-				Count: 1b
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "rechiseled:block/basalt_chiseled_piglin"
-				}
-			}
+			icon: "allthemodium:piglich_heart"
 			id: "1149F92182DC2A54"
 			rewards: [
 				{

@@ -3,10 +3,10 @@ ServerEvents.recipes(event => {
   event.shaped('allthetweaks:dragon_soul', ['CDA', 'SNI', 'BGE'], {
     C: 'mysticalagradditions:dragon_scale',
     D: 'occultism:soul_gem',
-    A: 'ends_delight:non_hatchable_dragon_egg',
-    S: [Item.of('blue_skies:poison_arc', '{ArcLevel:1}').strongNBT(),Item.of('blue_skies:poison_arc', '{ArcLevel:2}').strongNBT(),'twilightforest:snow_queen_trophy'],
+    A: 'twilightforest:ur_ghast_trophy',
+    S: 'twilightforest:snow_queen_trophy',
     N: 'allthemodium:piglich_heart_block',
-    I: [Item.of('blue_skies:nature_arc', '{ArcLevel:1}').strongNBT(),Item.of('blue_skies:nature_arc', '{ArcLevel:2}').strongNBT(),'twilightforest:snow_queen_trophy'],
+    I: 'twilightforest:lich_trophy',
     B: 'botania:life_essence',
 	G: 'productivebees:inactive_dragon_egg',
     E: 'ars_nouveau:summon_focus'
@@ -48,11 +48,10 @@ ServerEvents.recipes(event => {
   }).id('kubejs:allthetweaks/philosophers_fuel')
 
   // Improbable Probability Device
-  event.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CGE', 'FDF'], {
+  event.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CGE', 'FAF'], {
     A: 'mekanism:pellet_antimatter',
     B: 'computercraft:pocket_computer_advanced',
     C: ['extradisks:1048576k_storage_part', 'extradisks:1048576k_fluid_storage_part', 'megacells:cell_component_256m'],
-    D: 'advgenerators:power_capacitor_tier3',
     E: 'rftoolsutility:flight_module',
     F: Item.of('powah:battery_nitro', '{powah_tile_data:{energy_stored_main_energy:2000000000L}}').weakNBT(),
     G: 'ad_astra:jet_suit'
