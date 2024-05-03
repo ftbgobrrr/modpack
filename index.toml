@@ -1059,6 +1059,534 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/atm/buttons/akliz.json"
+hash = "964b624da7990aa74f6bf585d4c7917e1df8775642d983ac7d04966acd2fb968"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/discord.json"
+hash = "eda74cc972a9d3a8280d593d969f63d4a7185b2e6e0035a600bc19c3e4cd12eb"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/github.json"
+hash = "dd9e50ca828001750904a231ea2af8707fbbb6c87bcb97c3fa0571384aaa5fde"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/mods.json"
+hash = "a1f676ddf8ca6696f8ec5be9b830b3fd361ebb374e54ccf5c72e37e4c180afc7"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/multiplayer.json"
+hash = "ce7c959560a26a96f0f54c2738cd5e45c93e8bb927e4744911e55cae6ab66cb1"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/options.json"
+hash = "41058401c604b77e9eae13ac10fb4bc6e08d46f3554e74adb11283f97bf4ebd0"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/patreon.json"
+hash = "0f8c3ab1b21724b0b32c106179c2b0a3d04286b169763bc21106ebf341b6db23"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/quit.json"
+hash = "1d661bf72ca4340daed572f6c950e6baa31eef0922cb2399a2a88ea4d94fa13d"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/reddit.json"
+hash = "1171584697bea87b36c270e9153bab08bda22b89a9e8d4345c914d948e226e3f"
+
+[[files]]
+file = "kubejs/assets/atm/buttons/singleplayer.json"
+hash = "ae0995734e03e3b9453570881c67fe69cba32af4aa372ae0ff1928fec25ca2d7"
+
+[[files]]
+file = "kubejs/assets/atm/lang/en_us.json"
+hash = "6bcb8ada4938c20dc830dec5afe353ce7a2f88c7ebf175b0481fc00204406da5"
+
+[[files]]
+file = "kubejs/assets/atm/lang/ja_jp.json"
+hash = "ceab5777cc7c2d53c567872db6fda2dd52f6cafe5157edea3f035af7342d02eb"
+
+[[files]]
+file = "kubejs/assets/atm/lang/zh_cn.json"
+hash = "0137bbbdaebe02d7464a10a56e509113460173830df29d4d8f79ad761a072625"
+
+[[files]]
+file = "kubejs/assets/atm/textures/akliz.png"
+hash = "dcb1f2e5dea1f1a60c09de5315f1768f559daed06026247937588e8015394c55"
+
+[[files]]
+file = "kubejs/assets/atm/textures/discord.png"
+hash = "b6c6b9ce8cf4069d70a2192829e22397c2c7a2eed56456534039491e2594fb91"
+
+[[files]]
+file = "kubejs/assets/atm/textures/github.png"
+hash = "eb65b1c29e48f9162933bcad7d90e1bc62db181b909c35a2895ea07cf07fdbb6"
+
+[[files]]
+file = "kubejs/assets/atm/textures/logo.png"
+hash = "740e01d8825ca1eaef0689671fa1e3b267319c34345a8544df2ad599a9bdb7f5"
+
+[[files]]
+file = "kubejs/assets/atm/textures/mods.png"
+hash = "962ac92abc24f7b42e66c55bda2e0e20213a847e54c9b8eda23192523d27ff20"
+
+[[files]]
+file = "kubejs/assets/atm/textures/multiplayer.png"
+hash = "faab743b2ace4be19fa218381fabf507ba27c1e233e9344654027ca430777350"
+
+[[files]]
+file = "kubejs/assets/atm/textures/patreon.png"
+hash = "62104ce1d295c3eb0f499e40d103818d8f2f24b09ccbbab85fb83a1fde951c71"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/adastra/title.png"
+hash = "9a176db0efe217d85b23e8afbdc2a9da8d2d9c08d49b23492e00abe6de1a58b9"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/allthepower.png"
+hash = "33d8f4b2f9d0e490ec870e95f62c9abb7662fb3c377bd75b76d6b36cb6e6ad9c"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/ars/enchanting_app.png"
+hash = "d642090e2dff6830a9ee07da8fec7788654375a13ff6289e1e10affe26e68866"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/ars/imbuement.png"
+hash = "2f8648ff263b59b90ac1c31f5ca84da10f527270a0e47ae4878df73595099df4"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/ars/spellbook.png"
+hash = "227e2feb5558ed699a09aecbf0dcb2291243888e31eac52821c80c7fd928620f"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/bees/bottler.png"
+hash = "eac8b11cbab3ff763448cb590f8190f295a5a4f3dd9f30ffd6afad8b64646f0a"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/bees/productive_bees.png"
+hash = "a50738406a39b42f4c7f832140a717afecdc99d6cfa845e62b7aef55f761c2cf"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/blueskies/blueskies_everbright_naturedungeon.png"
+hash = "0968032f6f75a2d47c145b535015f5abb8a378b028b22b722ce9cdbcd9dc016b"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/blueskies/blueskies_everbright_structuredungeon.png"
+hash = "5e3444d0305ab0f4989013ebc45f9037079a85e69611d46b458282229ef6f173"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/blueskies/blueskies_everbright_summonersdungeon.png"
+hash = "5a7fa74f227826613d19686f7c86771b2ac133d70db8d143b20cc7ec8f8116f6"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/blueskies/blueskies_everdawn_alchemistdungeon.png"
+hash = "928c07125b18127b3c587f8705fcb4e8262cb645dc1f39f39c3a176be0662ed0"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/blueskies/blueskies_everdawn_poisondungeon.png"
+hash = "7306911c5e0c837cdfe20f198e742032bb8cefe0b6fe856517777b5e6432e469"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/blueskies/blueskies_gatekeeper_portal.png"
+hash = "e2d8f2933e8a34d8ae1bc12a4d562dee12fc73fd3716d74022b62481ce82bbe5"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/blueskies/blueskies_gatekeepershouse.png"
+hash = "59a86de1b181f72c7476e239136ba3f9073ec4aaa2a6c84e243ab229bede3b1c"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/botania/elven_portal.png"
+hash = "5ebf9804bff6b2e467dbb3e1dd26222c3afca28750a040145e2d0ad5df13f2e4"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/botania/gaia_ritual.png"
+hash = "4e0549c4e0a43ca71c7c98584117359b5399d8ae82f974e620107519d0011f8c"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/botania/hydrosample.png"
+hash = "1bcffb1577d04cb96cc25b6992d364fd72e7f5c5c6a6ac4ef2106fae79584e31"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/botania/t_a_plate_base.png"
+hash = "2ac2fec50e530b72203bd5970d1e302e79880f4cd70e87bf617fe869b6377536"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/bounty.png"
+hash = "4e550c1055ee976626755fb7e566eefd1e99452404db254d2ff65aff2ca12a47"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/chap2/atmstar_title.png"
+hash = "b13bdc1daa3d4e3f1f390f139ca61b13cb1e8dcc7ce48a99ce3ad11b9f6de310"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/chp2.png"
+hash = "e57399eb41674734d35daa41c7aa5833ea0c9ecbb06b73a5c8ea7ba6a2b25469"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/creative.png"
+hash = "4c256ca16bcc6c9f9591be625e121e9f8e5ac2b5861c5e36c61b99cdf2943309"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/enderdragon.png"
+hash = "e29d13c5221ae6729fa3635c40643cc9857525e33dea707b93b1934d8ae793ca"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/evilcraft/bloodchest.png"
+hash = "ea29b1dd4a78d1aade03761c64041d56272b3195ab1454d1e5fa77b83ca9e908"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/evilcraft/evilcraft_spiritfurnace.png"
+hash = "52d0d9bb842baecd741ef14267d92364ad7b71e5e99a1ae9d73d093b6e2b4c4c"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/3x3sample.png"
+hash = "b912d38a0c306b4d7f91a53521a2e71521e97497750d555363b76b1aa1a2f786"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/fluidizerexample.png"
+hash = "ec97b5f6d55516d67cd590c18707d9a83f1e64de2ab11bd329e1e515d94e2eff"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/importexample.png"
+hash = "ff42c045fdd0bc1847aa2ce621fcc9a2ca3cc7f5d72cb14e676a612dcd4b4d44"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/maxbasic3coils.png"
+hash = "1cfa8e9883eb3becc77599a3986a44efaff78ca63c6078e8d26bc38484159a47"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/maxbasicturbine.png"
+hash = "bf74291659c4a3bb51f59c30e11b81c9d80ed59c36f7be5b88240c0b727229d9"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/reactorui.png"
+hash = "c0d4b230665bda236b046e692c65af1eb4c6ed74bff01354fa07a76c410155f5"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/reprocessorframe.png"
+hash = "8a92d28e220b839ff54bf25a3e9add13277aea5e956b3729f1ecbb69acab47b6"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/reprocessorfull.png"
+hash = "4b5030a9b4a60d8ee011cb347f5b0d3f99204a77e8c4bdc3454f89ac975e09ac"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/title2.png"
+hash = "f50ec30e61a5e794f2af670e9b8a97467ba85ed4be7557b56f3c584778f510cb"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/titleimage2.png"
+hash = "a02599bab11ca3d725dae9ba7f7d0ae5de667967d697c461054a70171d58d3f3"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/extremereactors/turbineui.png"
+hash = "d1bc45befd689abcb2b30b953d5fa691bdaa693559132fecc36b01a95b0f1eff"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/flux/flux_ui.png"
+hash = "c25dc791607fd9e42ffe77b664f9044651fde37a03bbdd11c086d7fb72d2d85f"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/flux/wireless_ui.png"
+hash = "70cec7883df9ed3df886dc9ad6f8cfdc8060e72612b870469ae299f01bd6b10d"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/food_and_farming.png"
+hash = "29e524d245653178a17dc689263a9c2c492c6d77f166e75d854b42aa3555bd53"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/forbidden/forge.png"
+hash = "07f29864609caf74b90332aa050b5b64c21524a058d21dc2dfb1e840ec6c7808"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/apoth_exampleitem.png"
+hash = "a6bbfb02d5f9f7001a6e0eb862d82b3b5c6236f7b2dddd2701fd51b98343c5f4"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/confused1.png"
+hash = "944bc9287e424f743f6b4cd33f64ae920f38d16e49763852943237bcb129b0a8"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/enderdragon.png"
+hash = "e29d13c5221ae6729fa3635c40643cc9857525e33dea707b93b1934d8ae793ca"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/example_netherportal.png"
+hash = "856e211171117f4ee018dec5050f9eecdd3fd76096937b75e8a43e827a3ecd1c"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/iron_potions.png"
+hash = "a62b30822fab33eb5f94759ccc9620d6bd0c353279e6da6a087548b535521034"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/iron_powder.png"
+hash = "22f335a0e83472416a56332b352cb749be5d6584ab49fc021cfc152217c03024"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/ironspells_example.png"
+hash = "e891bae6cf2301c7aef9d855a4c5c9a7ad21f490d5012ac11ab393743fb81013"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/sniffer2.png"
+hash = "443dfdb4570a71bb92ac29a0582f933923090f2c2076c76edb4fdd90a447da40"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/sniffer3.png"
+hash = "57e36c867a516adfc67c9855d629cc6b2d90befb1efc3f6002533d07ffe2db21"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/titleimage1.png"
+hash = "d639a7f7d12e8c2e20d945872943382e21fa31854e7a121580e4a6c2429e1e8d"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/twilight_portal.png"
+hash = "93f6ea8fe3a0fe2358888563392cbc004c991110258b5d1201d0fa6c631aed8c"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/warden_roar.png"
+hash = "431e3b2d96b0d5321a4e98efb732154880ee251f2a0371c1953a7ea07540a72b"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/wither2.png"
+hash = "ff1630d0bfef8a55e39e9ebf8136ba871ee1c768a9bc80302b756311f22afca9"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/gettingstarted/wither_summon.png"
+hash = "025bca9aaee6eb671be06b7ada6d457692cde97278bcd68b2ea706d85c5657b1"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/basic_sps_shape.png"
+hash = "550c3556f286a0cc3da74f1f3533e53fb21af175ab4c208958269b80fab6f226"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/completed_fusion_reactor.png"
+hash = "51cb704cef721cfdbd3aacc5e8ecc56d7bff102d95f26d7050c32ff11e07953b"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/example_circuit.png"
+hash = "5446a19b6df6f25ec8b0af5a0a1c645c55ccd0161db07742780cebe5b55b5384"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/fission_cutout.png"
+hash = "0253ce1980cf5b7d3c12ab2c852b5076ed0f2e2ad9ddb9ffb7537afccbeece1a"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/fusion_activated.png"
+hash = "ac78085102e1f5670bf38fd8c7c5c01a808ebd2487b17466142b34c587ef0b70"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/fusion_cutout.png"
+hash = "d704bbcda89d4d7810783cb9b235ddf6f3419779017b97f34ef8e0f2f541cc49"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/fusion_fuelui1.png"
+hash = "82e86904b7b8a89a7e698e84a088ce96dc8e806783040ef76c3f23e281c928f5"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/fusion_pattern.png"
+hash = "6bca46e208fc2d8bbb25fe43691c98ef77bac59d7c77395ba8ebd89f3770c7c8"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/induction_cutout.png"
+hash = "fca60a291a6d0c494b1d3e4f2a412ca39f92b86a18d0ce29c8db82d6c23ddfe5"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/induction_inside.png"
+hash = "307b40565668dc4cef75897a4cd00535fc4c3d2c92293af26b3485f68a0eba57"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/induction_matrix.png"
+hash = "b1999a8901a38bf07164b3054da4a5ee7da45bac7af453139113ea5751588803"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/laser_example.png"
+hash = "025e64722be8ade2d71f82d1ded8c4870cd9e6bec5de4376e77c15ebf68fa62a"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/laser_ui.png"
+hash = "0118bf7576aba1ef538d4a08f6b753df16058938017391341b272dcc68f8a2bd"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/logic_adapter.png"
+hash = "6fc3bfe241fa16d545ef37d695920206e4573141b34e4e8c0b0bc6b728f4c959"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/mek_induction_matrix_small.png"
+hash = "534dab99e3e303af44235ed5e0c2309600788a66011096ec690da2e6a0bbdb39"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/mekanism_flowchart.png"
+hash = "520705317bf578f847a2b6966686cd43da6f72b44ece78039df324698159d73a"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/port_example.png"
+hash = "60e0e8ca02e21b8a9ee220d6758aa40c06f5c95c45fc051bfe886b0805a13891"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/reactor_interface_1.png"
+hash = "7c8206c613399ed5c4045bfced70448913bb12996441d313d2ab8bd97f79c817"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/reactor_interface_2.png"
+hash = "f8b8ca6f27ef25fe37baf2c5a4d537af6ff1e9958cfb48298a63a66962dfe1e1"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/rod_example.png"
+hash = "08476075861bf5b3ec67c1aefb888e515ef158aaf6518515b7d34bf0d48eeffc"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/sps_coils.png"
+hash = "06c7abeef39bb259f1313ea81783661ca82a69efbffae357703cc5813f3148a7"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/sps_complete.png"
+hash = "24f0d2f2ea3601f8c74ad6bcc8228aad7a69dfa0f4d5f2b2ebbf7f735fb9d94d"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/sps_cutout.png"
+hash = "53444d96997d275eaa734ef61fb25392968419ada5aec7915794ef46ef63edaf"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/thermalplant.png"
+hash = "7fd3eafdb3458c5ea5b8f2d9c15bb64b257bcca7d0a984a7ed6eed0ee5294ef7"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/turbine_completed.png"
+hash = "63384a6223a20d99473f940731668d34ab6bf8b8b95ab4435d197922cd75cc31"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mek/turbine_cutout.png"
+hash = "c56cd6af125d2d970b3735988a31558a0ef8816f40cc454bed92cd648352bbb8"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/mekanism_easy_setup.png"
+hash = "d29686caf7990769fcccfca124d54ff836e30ef6930e10eeaa310ef7e98150a4"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/occultism/aviarcircle.png"
+hash = "5834d4a42495590edf240590541d10194c430530189018773d3080feecb068c2"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/occultism/iesniumexample.png"
+hash = "d473752a225d96a7401a4c0edfd19f273485343d485fcf46339284f979ab0dbb"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/occultism/maridlogo.png"
+hash = "a56aa03df9425f8708cab6c2e420cccb648a196daba28a2b49ecbc6b0307b73f"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/occultism/storageupgradeexample.png"
+hash = "75896f631b4ff3cc4d985530cd3d3555700c43d8f41c8be6c6ba25c2914705e4"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/occultism/strighigherbinding.png"
+hash = "f1780650c86aac2d77b1e8de6530d6e4eefe5c149e6bd3b5c6e36f83cbeb5c52"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/powah/powah_energizing.png"
+hash = "04110b2219ada9dd8b05447e65c417136e77551d0e469d727f69b87020494e71"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/powah/text/generation_text.png"
+hash = "6efd026fe69dba619098c619a17a034a878633fe508460629e8a1d50ad1bf44e"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/powah/text/storage_text.png"
+hash = "894b5aa26c995ecbf432d3b9e05a958082dc600fc5fd416d46c4eb6a05dd0436"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/powah/text/transfer_text.png"
+hash = "cbd97d06ad63aedd2bac38218c1ba45b698f7d8413e3fdad7f62b81188b3c219"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/powah/text/useful_items_text.png"
+hash = "c82446d11b08f1804a7febe6f48762c0e74a98ceb9c7700c0ee86dd5ea358d5a"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/tips_and_tricks.png"
+hash = "89f4ffb1c13b2db2b34f5f848b6eebf9f9be048213808dbf7e9c2aa27df3f610"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/alfredcharacter.png"
+hash = "b25fe3ccd9c6ee50ad220dbf7bba7848e87c578211d389726b411ee67b4c82f6"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/enigmacharacter.png"
+hash = "6dff8ad9c84a3b950bf4ada2c232ca7dc735b411bb5ddb3eb9f4fca6fa3a59cc"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/mitchell52character.png"
+hash = "b3a240f4291e40de52ecd506b665c2af3cca7c3bb69017879514ddbb12d0464b"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/mutantgumdrop.png"
+hash = "e6a9f6b61090494f81cb5ef0de36daf7289809a2d670abbec3efdaf958b981a0"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/oly206character.png"
+hash = "55250d1b07e08222ac23c72d014488dbda97717d4440673fbe394394bde3401f"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/alfredgg_name.png"
+hash = "b5fb9d614f83bb282d2c84eb409569618b3cb149ac7e0da27c14877ee76db4d6"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/enigma_name.png"
+hash = "b7d14bb51b1cc253a03b266627afefed45fb1b0c10f8a2ed64791dab6e45698b"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/mitchell52_name.png"
+hash = "4fb94cd2c0e6535302eb649ec25f0fa9ed0ed9b16f700c429201c1073509fb16"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/mutant_name.png"
+hash = "4f9fd86d020a9e1650dabc4562ade3dcf8a096cfc0017f66b37daf6862865766"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/name_bar.png"
+hash = "56017db802b36be3d2780994cceb72d3333dd1b4ad3b51b39c60134a85061c4d"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/oly2o6.png"
+hash = "d2a2ca89a6c25a7d574dfb33786ef9d00581407f0d8a6c3a88500658f633a715"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/thevortex_name.png"
+hash = "3e71a3aac4305de86fb06cd03d6997179647f02d6f0845ce4e2f7d5ff921b34f"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/signs/whatthedrunk.png"
+hash = "44207b0e5ff5fbac108e9d3e9e13aba0bf333d38897e6da7dada6db07a3c673f"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/thevortexcharacter.png"
+hash = "a3789d4874ab3d955980f0bafd9a8922440a2e2ae1730ee4c7ae3da4922e6e93"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/welcome/whatthedrunkcharacter.png"
+hash = "3d7366815a7cf6cb0e4adbb599c022d5701ed91817c49c182f5288828f7f61e9"
+
+[[files]]
+file = "kubejs/assets/atm/textures/questpics/wither.png"
+hash = "e5c94cb9ea3d51a57d1965bb882a82a8615f0af67e310654bcae4aefaf03dcdd"
+
+[[files]]
+file = "kubejs/assets/atm/textures/quit.png"
+hash = "3ed009b08a25c19c2453a707a7b983cc8ad4481b26b03f4a27547fa1ec250718"
+
+[[files]]
+file = "kubejs/assets/atm/textures/reddit.png"
+hash = "3633cf41255f75c54651024da4d2d7fb9387beab489890406542265eb9438216"
+
+[[files]]
+file = "kubejs/assets/atm/textures/settings.png"
+hash = "a401a376deb380ea008d80cdefa774bc1257bbedf2f96b81f5899c1ebf57ade9"
+
+[[files]]
+file = "kubejs/assets/atm/textures/singleplayer.png"
+hash = "87dd16bbe0dc989ab9c4a31e58d687752155f54a9e2d5ddd61ea30059e1e89c6"
+
+[[files]]
 file = "kubejs/assets/kubejs/blockstates/magical_soil.json"
 hash = "c9cffd01a2dea78eb610b1d66ac7ffd9b483bebed298b78520a88a8b80f6d1a6"
 
@@ -1193,6 +1721,30 @@ hash = "c1a9309255b27f65bd93c43ac346fcb4a1e08e8e525534442e56312b1c434595"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/universal_press.png"
 hash = "1f8d9658d9e30ec514f4e623504bb8df42fa329c63b71f832613b6494fa2341e"
+
+[[files]]
+file = "kubejs/assets/packmenu/lang/en_us.json"
+hash = "f849b0c5f0b29b37c7625b6f6f3857189b3e811a656dfbb4799b1eeef01ae982"
+
+[[files]]
+file = "kubejs/assets/packmenu/lang/zh_cn.json"
+hash = "b8accf64a33498cded58ebe05c0a0c389e30823908cb94eee617a0c7aade02cc"
+
+[[files]]
+file = "kubejs/assets/packmenu/textures/gui/background.png"
+hash = "567b15d46878667b637cdea69838d719f23bc6faa81c8102156248354738c4a1"
+
+[[files]]
+file = "kubejs/assets/packmenu/textures/gui/logo.png"
+hash = "740e01d8825ca1eaef0689671fa1e3b267319c34345a8544df2ad599a9bdb7f5"
+
+[[files]]
+file = "kubejs/assets/packmenu/textures/gui/reload.png"
+hash = "08ac6a52fe114c36fa308020a2ebce84d6f6e15c993b0a5f9237b4f89682f60a"
+
+[[files]]
+file = "kubejs/assets/packmenu/textures/gui/widgets.png"
+hash = "26a3d4b8a23b75fdb7a0c5e8b7835ce8bdf98873a81695dde9f7010845edfe8b"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -3875,571 +4427,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "9ba4edf5fcf5fcb861bdd9de94e01dfa0c9640f2ae1a82db284a0c47ddded987"
 metafile = true
-
-[[files]]
-file = "packmenu/resources/README.md"
-hash = "afa58cb67bd440b44de0ae27d054f406be6033afc9827bf07670aa03860e0c58"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/akliz.json"
-hash = "964b624da7990aa74f6bf585d4c7917e1df8775642d983ac7d04966acd2fb968"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/discord.json"
-hash = "eda74cc972a9d3a8280d593d969f63d4a7185b2e6e0035a600bc19c3e4cd12eb"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/github.json"
-hash = "dd9e50ca828001750904a231ea2af8707fbbb6c87bcb97c3fa0571384aaa5fde"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/mods.json"
-hash = "a1f676ddf8ca6696f8ec5be9b830b3fd361ebb374e54ccf5c72e37e4c180afc7"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/multiplayer.json"
-hash = "ce7c959560a26a96f0f54c2738cd5e45c93e8bb927e4744911e55cae6ab66cb1"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/options.json"
-hash = "41058401c604b77e9eae13ac10fb4bc6e08d46f3554e74adb11283f97bf4ebd0"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/patreon.json"
-hash = "0f8c3ab1b21724b0b32c106179c2b0a3d04286b169763bc21106ebf341b6db23"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/quit.json"
-hash = "1d661bf72ca4340daed572f6c950e6baa31eef0922cb2399a2a88ea4d94fa13d"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/reddit.json"
-hash = "1171584697bea87b36c270e9153bab08bda22b89a9e8d4345c914d948e226e3f"
-
-[[files]]
-file = "packmenu/resources/assets/atm/buttons/singleplayer.json"
-hash = "ae0995734e03e3b9453570881c67fe69cba32af4aa372ae0ff1928fec25ca2d7"
-
-[[files]]
-file = "packmenu/resources/assets/atm/lang/en_us.json"
-hash = "6bcb8ada4938c20dc830dec5afe353ce7a2f88c7ebf175b0481fc00204406da5"
-
-[[files]]
-file = "packmenu/resources/assets/atm/lang/ja_jp.json"
-hash = "ceab5777cc7c2d53c567872db6fda2dd52f6cafe5157edea3f035af7342d02eb"
-
-[[files]]
-file = "packmenu/resources/assets/atm/lang/zh_cn.json"
-hash = "0137bbbdaebe02d7464a10a56e509113460173830df29d4d8f79ad761a072625"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/akliz.png"
-hash = "dcb1f2e5dea1f1a60c09de5315f1768f559daed06026247937588e8015394c55"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/discord.png"
-hash = "b6c6b9ce8cf4069d70a2192829e22397c2c7a2eed56456534039491e2594fb91"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/github.png"
-hash = "eb65b1c29e48f9162933bcad7d90e1bc62db181b909c35a2895ea07cf07fdbb6"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/logo.png"
-hash = "740e01d8825ca1eaef0689671fa1e3b267319c34345a8544df2ad599a9bdb7f5"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/mods.png"
-hash = "962ac92abc24f7b42e66c55bda2e0e20213a847e54c9b8eda23192523d27ff20"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/multiplayer.png"
-hash = "faab743b2ace4be19fa218381fabf507ba27c1e233e9344654027ca430777350"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/patreon.png"
-hash = "62104ce1d295c3eb0f499e40d103818d8f2f24b09ccbbab85fb83a1fde951c71"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/adastra/title.png"
-hash = "9a176db0efe217d85b23e8afbdc2a9da8d2d9c08d49b23492e00abe6de1a58b9"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/allthepower.png"
-hash = "33d8f4b2f9d0e490ec870e95f62c9abb7662fb3c377bd75b76d6b36cb6e6ad9c"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/ars/enchanting_app.png"
-hash = "d642090e2dff6830a9ee07da8fec7788654375a13ff6289e1e10affe26e68866"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/ars/imbuement.png"
-hash = "2f8648ff263b59b90ac1c31f5ca84da10f527270a0e47ae4878df73595099df4"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/ars/spellbook.png"
-hash = "227e2feb5558ed699a09aecbf0dcb2291243888e31eac52821c80c7fd928620f"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/bees/bottler.png"
-hash = "eac8b11cbab3ff763448cb590f8190f295a5a4f3dd9f30ffd6afad8b64646f0a"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/bees/productive_bees.png"
-hash = "a50738406a39b42f4c7f832140a717afecdc99d6cfa845e62b7aef55f761c2cf"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/blueskies/blueskies_everbright_naturedungeon.png"
-hash = "0968032f6f75a2d47c145b535015f5abb8a378b028b22b722ce9cdbcd9dc016b"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/blueskies/blueskies_everbright_structuredungeon.png"
-hash = "5e3444d0305ab0f4989013ebc45f9037079a85e69611d46b458282229ef6f173"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/blueskies/blueskies_everbright_summonersdungeon.png"
-hash = "5a7fa74f227826613d19686f7c86771b2ac133d70db8d143b20cc7ec8f8116f6"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/blueskies/blueskies_everdawn_alchemistdungeon.png"
-hash = "928c07125b18127b3c587f8705fcb4e8262cb645dc1f39f39c3a176be0662ed0"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/blueskies/blueskies_everdawn_poisondungeon.png"
-hash = "7306911c5e0c837cdfe20f198e742032bb8cefe0b6fe856517777b5e6432e469"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/blueskies/blueskies_gatekeeper_portal.png"
-hash = "e2d8f2933e8a34d8ae1bc12a4d562dee12fc73fd3716d74022b62481ce82bbe5"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/blueskies/blueskies_gatekeepershouse.png"
-hash = "59a86de1b181f72c7476e239136ba3f9073ec4aaa2a6c84e243ab229bede3b1c"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/botania/elven_portal.png"
-hash = "5ebf9804bff6b2e467dbb3e1dd26222c3afca28750a040145e2d0ad5df13f2e4"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/botania/gaia_ritual.png"
-hash = "4e0549c4e0a43ca71c7c98584117359b5399d8ae82f974e620107519d0011f8c"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/botania/hydrosample.png"
-hash = "1bcffb1577d04cb96cc25b6992d364fd72e7f5c5c6a6ac4ef2106fae79584e31"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/botania/t_a_plate_base.png"
-hash = "2ac2fec50e530b72203bd5970d1e302e79880f4cd70e87bf617fe869b6377536"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/bounty.png"
-hash = "4e550c1055ee976626755fb7e566eefd1e99452404db254d2ff65aff2ca12a47"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/chap2/atmstar_title.png"
-hash = "b13bdc1daa3d4e3f1f390f139ca61b13cb1e8dcc7ce48a99ce3ad11b9f6de310"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/chp2.png"
-hash = "e57399eb41674734d35daa41c7aa5833ea0c9ecbb06b73a5c8ea7ba6a2b25469"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/creative.png"
-hash = "4c256ca16bcc6c9f9591be625e121e9f8e5ac2b5861c5e36c61b99cdf2943309"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/enderdragon.png"
-hash = "e29d13c5221ae6729fa3635c40643cc9857525e33dea707b93b1934d8ae793ca"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/evilcraft/bloodchest.png"
-hash = "ea29b1dd4a78d1aade03761c64041d56272b3195ab1454d1e5fa77b83ca9e908"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/evilcraft/evilcraft_spiritfurnace.png"
-hash = "52d0d9bb842baecd741ef14267d92364ad7b71e5e99a1ae9d73d093b6e2b4c4c"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/3x3sample.png"
-hash = "b912d38a0c306b4d7f91a53521a2e71521e97497750d555363b76b1aa1a2f786"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/fluidizerexample.png"
-hash = "ec97b5f6d55516d67cd590c18707d9a83f1e64de2ab11bd329e1e515d94e2eff"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/importexample.png"
-hash = "ff42c045fdd0bc1847aa2ce621fcc9a2ca3cc7f5d72cb14e676a612dcd4b4d44"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/maxbasic3coils.png"
-hash = "1cfa8e9883eb3becc77599a3986a44efaff78ca63c6078e8d26bc38484159a47"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/maxbasicturbine.png"
-hash = "bf74291659c4a3bb51f59c30e11b81c9d80ed59c36f7be5b88240c0b727229d9"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/reactorui.png"
-hash = "c0d4b230665bda236b046e692c65af1eb4c6ed74bff01354fa07a76c410155f5"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/reprocessorframe.png"
-hash = "8a92d28e220b839ff54bf25a3e9add13277aea5e956b3729f1ecbb69acab47b6"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/reprocessorfull.png"
-hash = "4b5030a9b4a60d8ee011cb347f5b0d3f99204a77e8c4bdc3454f89ac975e09ac"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/title2.png"
-hash = "f50ec30e61a5e794f2af670e9b8a97467ba85ed4be7557b56f3c584778f510cb"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/titleimage2.png"
-hash = "a02599bab11ca3d725dae9ba7f7d0ae5de667967d697c461054a70171d58d3f3"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/extremereactors/turbineui.png"
-hash = "d1bc45befd689abcb2b30b953d5fa691bdaa693559132fecc36b01a95b0f1eff"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/flux/flux_ui.png"
-hash = "c25dc791607fd9e42ffe77b664f9044651fde37a03bbdd11c086d7fb72d2d85f"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/flux/wireless_ui.png"
-hash = "70cec7883df9ed3df886dc9ad6f8cfdc8060e72612b870469ae299f01bd6b10d"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/food_and_farming.png"
-hash = "29e524d245653178a17dc689263a9c2c492c6d77f166e75d854b42aa3555bd53"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/forbidden/forge.png"
-hash = "07f29864609caf74b90332aa050b5b64c21524a058d21dc2dfb1e840ec6c7808"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/apoth_exampleitem.png"
-hash = "a6bbfb02d5f9f7001a6e0eb862d82b3b5c6236f7b2dddd2701fd51b98343c5f4"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/confused1.png"
-hash = "944bc9287e424f743f6b4cd33f64ae920f38d16e49763852943237bcb129b0a8"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/enderdragon.png"
-hash = "e29d13c5221ae6729fa3635c40643cc9857525e33dea707b93b1934d8ae793ca"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/example_netherportal.png"
-hash = "856e211171117f4ee018dec5050f9eecdd3fd76096937b75e8a43e827a3ecd1c"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/iron_potions.png"
-hash = "a62b30822fab33eb5f94759ccc9620d6bd0c353279e6da6a087548b535521034"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/iron_powder.png"
-hash = "22f335a0e83472416a56332b352cb749be5d6584ab49fc021cfc152217c03024"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/ironspells_example.png"
-hash = "e891bae6cf2301c7aef9d855a4c5c9a7ad21f490d5012ac11ab393743fb81013"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/sniffer2.png"
-hash = "443dfdb4570a71bb92ac29a0582f933923090f2c2076c76edb4fdd90a447da40"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/sniffer3.png"
-hash = "57e36c867a516adfc67c9855d629cc6b2d90befb1efc3f6002533d07ffe2db21"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/titleimage1.png"
-hash = "d639a7f7d12e8c2e20d945872943382e21fa31854e7a121580e4a6c2429e1e8d"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/twilight_portal.png"
-hash = "93f6ea8fe3a0fe2358888563392cbc004c991110258b5d1201d0fa6c631aed8c"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/warden_roar.png"
-hash = "431e3b2d96b0d5321a4e98efb732154880ee251f2a0371c1953a7ea07540a72b"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/wither2.png"
-hash = "ff1630d0bfef8a55e39e9ebf8136ba871ee1c768a9bc80302b756311f22afca9"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/gettingstarted/wither_summon.png"
-hash = "025bca9aaee6eb671be06b7ada6d457692cde97278bcd68b2ea706d85c5657b1"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/basic_sps_shape.png"
-hash = "550c3556f286a0cc3da74f1f3533e53fb21af175ab4c208958269b80fab6f226"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/completed_fusion_reactor.png"
-hash = "51cb704cef721cfdbd3aacc5e8ecc56d7bff102d95f26d7050c32ff11e07953b"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/example_circuit.png"
-hash = "5446a19b6df6f25ec8b0af5a0a1c645c55ccd0161db07742780cebe5b55b5384"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/fission_cutout.png"
-hash = "0253ce1980cf5b7d3c12ab2c852b5076ed0f2e2ad9ddb9ffb7537afccbeece1a"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/fusion_activated.png"
-hash = "ac78085102e1f5670bf38fd8c7c5c01a808ebd2487b17466142b34c587ef0b70"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/fusion_cutout.png"
-hash = "d704bbcda89d4d7810783cb9b235ddf6f3419779017b97f34ef8e0f2f541cc49"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/fusion_fuelui1.png"
-hash = "82e86904b7b8a89a7e698e84a088ce96dc8e806783040ef76c3f23e281c928f5"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/fusion_pattern.png"
-hash = "6bca46e208fc2d8bbb25fe43691c98ef77bac59d7c77395ba8ebd89f3770c7c8"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/induction_cutout.png"
-hash = "fca60a291a6d0c494b1d3e4f2a412ca39f92b86a18d0ce29c8db82d6c23ddfe5"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/induction_inside.png"
-hash = "307b40565668dc4cef75897a4cd00535fc4c3d2c92293af26b3485f68a0eba57"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/induction_matrix.png"
-hash = "b1999a8901a38bf07164b3054da4a5ee7da45bac7af453139113ea5751588803"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/laser_example.png"
-hash = "025e64722be8ade2d71f82d1ded8c4870cd9e6bec5de4376e77c15ebf68fa62a"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/laser_ui.png"
-hash = "0118bf7576aba1ef538d4a08f6b753df16058938017391341b272dcc68f8a2bd"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/logic_adapter.png"
-hash = "6fc3bfe241fa16d545ef37d695920206e4573141b34e4e8c0b0bc6b728f4c959"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/mek_induction_matrix_small.png"
-hash = "534dab99e3e303af44235ed5e0c2309600788a66011096ec690da2e6a0bbdb39"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/mekanism_flowchart.png"
-hash = "520705317bf578f847a2b6966686cd43da6f72b44ece78039df324698159d73a"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/port_example.png"
-hash = "60e0e8ca02e21b8a9ee220d6758aa40c06f5c95c45fc051bfe886b0805a13891"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/reactor_interface_1.png"
-hash = "7c8206c613399ed5c4045bfced70448913bb12996441d313d2ab8bd97f79c817"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/reactor_interface_2.png"
-hash = "f8b8ca6f27ef25fe37baf2c5a4d537af6ff1e9958cfb48298a63a66962dfe1e1"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/rod_example.png"
-hash = "08476075861bf5b3ec67c1aefb888e515ef158aaf6518515b7d34bf0d48eeffc"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/sps_coils.png"
-hash = "06c7abeef39bb259f1313ea81783661ca82a69efbffae357703cc5813f3148a7"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/sps_complete.png"
-hash = "24f0d2f2ea3601f8c74ad6bcc8228aad7a69dfa0f4d5f2b2ebbf7f735fb9d94d"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/sps_cutout.png"
-hash = "53444d96997d275eaa734ef61fb25392968419ada5aec7915794ef46ef63edaf"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/thermalplant.png"
-hash = "7fd3eafdb3458c5ea5b8f2d9c15bb64b257bcca7d0a984a7ed6eed0ee5294ef7"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/turbine_completed.png"
-hash = "63384a6223a20d99473f940731668d34ab6bf8b8b95ab4435d197922cd75cc31"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mek/turbine_cutout.png"
-hash = "c56cd6af125d2d970b3735988a31558a0ef8816f40cc454bed92cd648352bbb8"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/mekanism_easy_setup.png"
-hash = "d29686caf7990769fcccfca124d54ff836e30ef6930e10eeaa310ef7e98150a4"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/occultism/aviarcircle.png"
-hash = "5834d4a42495590edf240590541d10194c430530189018773d3080feecb068c2"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/occultism/iesniumexample.png"
-hash = "d473752a225d96a7401a4c0edfd19f273485343d485fcf46339284f979ab0dbb"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/occultism/maridlogo.png"
-hash = "a56aa03df9425f8708cab6c2e420cccb648a196daba28a2b49ecbc6b0307b73f"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/occultism/storageupgradeexample.png"
-hash = "75896f631b4ff3cc4d985530cd3d3555700c43d8f41c8be6c6ba25c2914705e4"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/occultism/strighigherbinding.png"
-hash = "f1780650c86aac2d77b1e8de6530d6e4eefe5c149e6bd3b5c6e36f83cbeb5c52"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/powah/powah_energizing.png"
-hash = "04110b2219ada9dd8b05447e65c417136e77551d0e469d727f69b87020494e71"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/powah/text/generation_text.png"
-hash = "6efd026fe69dba619098c619a17a034a878633fe508460629e8a1d50ad1bf44e"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/powah/text/storage_text.png"
-hash = "894b5aa26c995ecbf432d3b9e05a958082dc600fc5fd416d46c4eb6a05dd0436"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/powah/text/transfer_text.png"
-hash = "cbd97d06ad63aedd2bac38218c1ba45b698f7d8413e3fdad7f62b81188b3c219"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/powah/text/useful_items_text.png"
-hash = "c82446d11b08f1804a7febe6f48762c0e74a98ceb9c7700c0ee86dd5ea358d5a"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/tips_and_tricks.png"
-hash = "89f4ffb1c13b2db2b34f5f848b6eebf9f9be048213808dbf7e9c2aa27df3f610"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/alfredcharacter.png"
-hash = "b25fe3ccd9c6ee50ad220dbf7bba7848e87c578211d389726b411ee67b4c82f6"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/enigmacharacter.png"
-hash = "6dff8ad9c84a3b950bf4ada2c232ca7dc735b411bb5ddb3eb9f4fca6fa3a59cc"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/mitchell52character.png"
-hash = "b3a240f4291e40de52ecd506b665c2af3cca7c3bb69017879514ddbb12d0464b"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/mutantgumdrop.png"
-hash = "e6a9f6b61090494f81cb5ef0de36daf7289809a2d670abbec3efdaf958b981a0"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/oly206character.png"
-hash = "55250d1b07e08222ac23c72d014488dbda97717d4440673fbe394394bde3401f"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/alfredgg_name.png"
-hash = "b5fb9d614f83bb282d2c84eb409569618b3cb149ac7e0da27c14877ee76db4d6"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/enigma_name.png"
-hash = "b7d14bb51b1cc253a03b266627afefed45fb1b0c10f8a2ed64791dab6e45698b"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/mitchell52_name.png"
-hash = "4fb94cd2c0e6535302eb649ec25f0fa9ed0ed9b16f700c429201c1073509fb16"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/mutant_name.png"
-hash = "4f9fd86d020a9e1650dabc4562ade3dcf8a096cfc0017f66b37daf6862865766"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/name_bar.png"
-hash = "56017db802b36be3d2780994cceb72d3333dd1b4ad3b51b39c60134a85061c4d"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/oly2o6.png"
-hash = "d2a2ca89a6c25a7d574dfb33786ef9d00581407f0d8a6c3a88500658f633a715"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/thevortex_name.png"
-hash = "3e71a3aac4305de86fb06cd03d6997179647f02d6f0845ce4e2f7d5ff921b34f"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/signs/whatthedrunk.png"
-hash = "44207b0e5ff5fbac108e9d3e9e13aba0bf333d38897e6da7dada6db07a3c673f"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/thevortexcharacter.png"
-hash = "a3789d4874ab3d955980f0bafd9a8922440a2e2ae1730ee4c7ae3da4922e6e93"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/welcome/whatthedrunkcharacter.png"
-hash = "3d7366815a7cf6cb0e4adbb599c022d5701ed91817c49c182f5288828f7f61e9"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/questpics/wither.png"
-hash = "e5c94cb9ea3d51a57d1965bb882a82a8615f0af67e310654bcae4aefaf03dcdd"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/quit.png"
-hash = "3ed009b08a25c19c2453a707a7b983cc8ad4481b26b03f4a27547fa1ec250718"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/reddit.png"
-hash = "3633cf41255f75c54651024da4d2d7fb9387beab489890406542265eb9438216"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/settings.png"
-hash = "a401a376deb380ea008d80cdefa774bc1257bbedf2f96b81f5899c1ebf57ade9"
-
-[[files]]
-file = "packmenu/resources/assets/atm/textures/singleplayer.png"
-hash = "87dd16bbe0dc989ab9c4a31e58d687752155f54a9e2d5ddd61ea30059e1e89c6"
-
-[[files]]
-file = "packmenu/resources/assets/minecraft/textures/gui/accessibility.png"
-hash = "c45a0955aefb7aed21f0a2237b759545e3f8e09a8b54007d77fc8c4402e13498"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "f849b0c5f0b29b37c7625b6f6f3857189b3e811a656dfbb4799b1eeef01ae982"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/lang/zh_cn.json"
-hash = "b8accf64a33498cded58ebe05c0a0c389e30823908cb94eee617a0c7aade02cc"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
-hash = "567b15d46878667b637cdea69838d719f23bc6faa81c8102156248354738c4a1"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
-hash = "740e01d8825ca1eaef0689671fa1e3b267319c34345a8544df2ad599a9bdb7f5"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
-hash = "08ac6a52fe114c36fa308020a2ebce84d6f6e15c993b0a5f9237b4f89682f60a"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/widgets.png"
-hash = "26a3d4b8a23b75fdb7a0c5e8b7835ce8bdf98873a81695dde9f7010845edfe8b"
-
-[[files]]
-file = "packmenu/resources/pack.mcmeta"
-hash = "157a33d968ad30a59edae72d0a1b870a9d8b1867601f45494072f9773e7bc21d"
-
-[[files]]
-file = "packmenu/resources/pack.png"
-hash = "95f962993cd12a6130babe1f467b97bebcc70a46945bda4b37e134851e434adc"
