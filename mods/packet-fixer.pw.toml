@@ -3,11 +3,11 @@ filename = "PacketFixer-forge-1.20.1-1.2.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/BkukMVPb/PacketFixer-forge-1.20.1-1.2.7.jar"
 hash-format = "sha1"
 hash = "d13c57c76bdc3bb208fc3069621c9bf67fb0e1ca"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5101975
-project-id = 689467
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "BkukMVPb"

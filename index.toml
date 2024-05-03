@@ -3056,6 +3056,10 @@ hash = "e103990446023cc07e2908605fa84c2d4f3935695eb4feac001f1083c8317585"
 metafile = true
 
 [[files]]
+file = "mods/Structory_1.20.2_v1.3.4.jar"
+hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "4374330e6a885f84e16947851d9e37ec30f4e0fd431487cd934d56b1b24dc58b"
 metafile = true
@@ -3151,11 +3155,6 @@ hash = "5ea4abbd6a409fd99b031b77849586cd4641d38cd189ae94c95d569608268b8e"
 metafile = true
 
 [[files]]
-file = "mods/all-the-wizard-gear.pw.toml"
-hash = "14560f34e2f5f2ff92082b3103346dfa479557cb2a510afa0b0c03e9af01b5b7"
-metafile = true
-
-[[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "023dbd597a018bc8914544c9d781fdffc3dc78a3b2fab5f5b6771c119bb81653"
 metafile = true
@@ -3164,6 +3163,10 @@ metafile = true
 file = "mods/allthemodium.pw.toml"
 hash = "e2af4f855d32367aa2e6d88586b5f521886b7bbb3a9983d46be4d0caed78d17a"
 metafile = true
+
+[[files]]
+file = "mods/allthewizardgear-1.20.1-1.1.2.jar"
+hash = "b88ff43e3ab6f31bf015adac583612aedd1bc3274122334538041f19c8ce68d8"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
@@ -3742,7 +3745,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
@@ -4341,11 +4344,6 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "f77b147c1ba0dae6df313f77cff2926412f4a84c4dbcd6f049dd3d0643fb7a03"
-metafile = true
-
-[[files]]
 file = "mods/more-red.pw.toml"
 hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
 metafile = true
@@ -4354,6 +4352,10 @@ metafile = true
 file = "mods/morejs.pw.toml"
 hash = "e9328ccddce3d4f85d0fe10394e37b289d8dc13e5ec03112c6c4533bea351285"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.22.3-mc1.20.2.jar"
+hash = "d128037878f363861451e3b31da5ad120488ec28f6eb8330fd6e4b809318efcc"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -4477,7 +4479,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "db6ad972a3b545247b6d0c003f0629368373d34baf0a5a65be6c73fca4cf807a"
+hash = "86f38e24b17a8d4d832223a79dc58bea50c5050f498628b5034dd90431da40c9"
 metafile = true
 
 [[files]]
@@ -4811,11 +4813,6 @@ hash = "c5a6d74a1097e541894f5dbdb10fa016a0239a60877f117b6e32df1fa7fee2b1"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "653307d3f6179063003abff7fd4688d7ba3008ea0396611a6eafb8ea615b861b"
-metafile = true
-
-[[files]]
 file = "mods/structure-compass.pw.toml"
 hash = "7e3b444e05717f18ae3e24e96330538bc5a9c6478bb3b98c529ded1b2541981b"
 metafile = true
@@ -4971,8 +4968,8 @@ hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "4d2a9da7c09a85448943858dfe66fdbf6b2b262acd28ed4055d620ceb560da18"
+file = "mods/totw-modded.pw.toml"
+hash = "7e37bb58283ca8e9e060d387e130e0410399ab3395a2266ac5cc063dd7503e0b"
 metafile = true
 
 [[files]]
