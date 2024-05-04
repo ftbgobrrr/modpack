@@ -5,19 +5,16 @@
 # Exclude README
 
 /README.md
-_.zip
-!world/datapacks/_.zip
-!world/shaderpacks/_.zip
-_.mrpack
-.git/\*
+/*.zip
+*.mrpack
+.git/*
 .git/
 .gitignore
 .gitattributes
 build/
 
 # Nix scripts
-
 /flake.lock
-\*.nix
+*.nix
 /.envrc
 /.direnv/
