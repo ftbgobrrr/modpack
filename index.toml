@@ -2837,6 +2837,10 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "f83d4b4d2d1be84389288339dd8d6cc87498671d2558f937eeb9add896e38a07"
 
 [[files]]
+file = "mods/FluxNetworks-1.20.1-7.2.1.15.jar"
+hash = "0433f467c8138fda3c89cb46989c4b53d1be7879c09c4a5728051a1b6b915fec"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "4374330e6a885f84e16947851d9e37ec30f4e0fd431487cd934d56b1b24dc58b"
 metafile = true
@@ -3483,11 +3487,6 @@ metafile = true
 [[files]]
 file = "mods/flickerfix.pw.toml"
 hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
-metafile = true
-
-[[files]]
-file = "mods/flux-networks.pw.toml"
-hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
 metafile = true
 
 [[files]]
