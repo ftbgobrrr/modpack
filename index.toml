@@ -3110,6 +3110,11 @@ hash = "cacc272fbc39792570ea3e72ad8856cb0b923f69ecea2beb6b1560f00411d178"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "936cc66be70fd5e2044cdc86e445c991d8d956700a28d76907097c0e797e271f"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
 metafile = true
@@ -3432,6 +3437,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "2f63b1dca33be9ca4d721d7567dcd530c24fc147c9b01a8b52d204d4584386f6"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "13d8c62a260680d9ab76691e371739a39b4bca571a8edb68f1be14710dc73403"
 metafile = true
 
 [[files]]
